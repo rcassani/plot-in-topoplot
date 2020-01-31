@@ -5,5 +5,7 @@ Requirements:
 Numpy
 PIL, Python Imaging Library
 
+Peppers photo by [Martin Adams](https://unsplash.com/@martinadams?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/mexico-pepper?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 Example:
-![Lena topoplot](spherical_coords.png)
+![Peppers in topoplot](spherical_coords.png)

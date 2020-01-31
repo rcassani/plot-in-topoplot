@@ -12,10 +12,10 @@ import topoplot_tools as topo
 
 # Parameters
 head_radius       = 1000                      # In pixels
-scale_images      = 0.8                       # Scale applied to images 
+scale_images      = 0.1                       # Scale applied to images 
 crop_images       = [0, 200, 0, 0] # L U R D  # Images crop in pixels, L U R D 
-image_filenames   = [r'./lena.png', r'./lena.png', r'./lena.png', r'./lena.png', 
-                     r'./lena.png', r'./lena.png', r'./lena.png'] 
+image_filenames   = [r'./peppers.jpg', r'./peppers.jpg', r'./peppers.jpg', r'./peppers.jpg', 
+                     r'./peppers.jpg', r'./peppers.jpg', r'./peppers.jpg'] 
 
 # Using Sperical coordinates
 position_filename = r'./spherical_coords.sph'
